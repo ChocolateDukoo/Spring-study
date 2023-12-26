@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;jex01&apos;&#x0D;&#x0A;- Original project: &apos;jex01&apos;&#x0D;&#x0A;- Original element: &apos;jex01/src/main/java/org.zerock.exception&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.zerock.exception" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1691467319630" subPackages="false" version="1.0"/>
+</session>
